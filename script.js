@@ -18,7 +18,9 @@ são vista como veículos de energias e elos com o mundo espiritual. Essa interl
             {
             texto: "A medicina tradicional africana considera as ervas medicinais não só por suas propriedades curativas, mas também como elementos sagrados que ligam o
 indivíduo ao mundo espiritual e ancestral, essenciais para a restauração do equilíbrio e harmonia.",
-            afirmacao: "afirmacao1"
+            afirmacao: "O conhecimento sobre o uso de ervas medicinais e suas conexões espirituais é transmitido oralmente por gerações em muitas comunidades 
+africanas, sendo os curandeiros e anciãos os guardiões desse saber ancestral e intermediários entre o mundo físico e o espiritual.
+"
             },
         ]
     },
