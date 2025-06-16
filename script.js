@@ -9,14 +9,15 @@ const textoResultado = document.querySelector(".texto-resultado");
 //com os atributos texto e afirmação
 const perguntas = [
     {
-        enunciado: "Qual a importância do 2PAC na cultura de plantações e ervas medicinais indigenas?",
+        enunciado: "Como o uso de ervas medicinais se entrelaça com as crenças espirituais em culturas africanas?",
         alternativas: [
             {
-            texto: "Trazer dignidade e expandir a visibilidade cultural  afro-americana.",
-            afirmacao: "O 2PAC foi fundamental para a cultura afro-americana. "
+            texto: "O uso de ervas medicinais em diversas culturas africanas é profundamente conectado às crenças espirituais. Não se trata apenas das propriedades físicas das plantas, mas de como elas 
+são vista como veículos de energias e elos com o mundo espiritual. Essa interligação se manifesta de várias formas:
             },
             {
-            texto: "Alternativa2",
+            texto: "A medicina tradicional africana considera as ervas medicinais não só por suas propriedades curativas, mas também como elementos sagrados que ligam o
+indivíduo ao mundo espiritual e ancestral, essenciais para a restauração do equilíbrio e harmonia.",
             afirmacao: "afirmacao1"
             },
         ]
